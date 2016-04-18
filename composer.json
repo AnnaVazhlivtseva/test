@@ -1,0 +1,26 @@
+{
+    // package name
+    "name": "yiisoft/yii2-test",
+
+    // package type
+    "type": "yii2-extension",
+
+    "description": "Test extension for the Yii framework",
+    "keywords": ["yii2", "test"],
+    "license": "BSD-3-Clause",
+    "support": {
+        "issues": "https://github.com/AnnaVazhlivtseva/test/issues",
+        "source": "https://github.com/AnnaVazhlivtseva/test"
+    },
+    "authors": [
+        {
+            "name": "Anna Vazhlivtseva",
+            "email": "anna.vazhlivtseva@sitrus.com"
+        }
+    ],
+
+    // package dependencies
+    "require": {
+        "yiisoft/yii2": "*"
+    }
+}
