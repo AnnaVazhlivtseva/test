@@ -1,10 +1,10 @@
 {
-    "name": "yiisoft/yii2-test",
+    "name": "AnnaVazhlivtseva/test",
 
-    "type": "yii2-extension",
+    "type": "AnnaVazhlivtseva-extension",
 
     "description": "Test extension for the Yii framework",
-    "keywords": ["yii2", "test"],
+    "keywords": ["AnnaVazhlivtseva", "test"],
     "license": "BSD-3-Clause",
     "support": {
         "issues": "https://github.com/AnnaVazhlivtseva/test/issues",
@@ -16,8 +16,4 @@
             "email": "anna.vazhlivtseva@sitrus.com"
         }
     ],
-
-    "require": {
-        "yiisoft/yii2": "*"
-    }
 }
