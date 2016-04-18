@@ -1,8 +1,6 @@
 {
-    // package name
     "name": "yiisoft/yii2-test",
 
-    // package type
     "type": "yii2-extension",
 
     "description": "Test extension for the Yii framework",
@@ -19,7 +17,6 @@
         }
     ],
 
-    // package dependencies
     "require": {
         "yiisoft/yii2": "*"
     }
